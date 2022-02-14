@@ -8,6 +8,7 @@ Then one day, I have started studying machine learning on a whim; but day by day
 I also want to mention that I try to share my findings, studies and like on a regular basis through my Medium account or Substack newsletter. If interested, you can find the links below.
 
 https://medium.com/@fatih.gokmenoglu	
+
 https://fgokmenoglu.substack.com/	
 
 Finally, I am open to new connections to further my career.
